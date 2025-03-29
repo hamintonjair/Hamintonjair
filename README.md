@@ -51,7 +51,7 @@ Soy un **Ingeniero de Sistemas** con amplia experiencia en **desarrollo de softw
 ## 📫 **Contacto & Redes**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/)  
-📧 **Email:** haminton@example.com  
+📧 **Email:** ing.haminton@outlook.com  
 
 ---
 
