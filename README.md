@@ -1,17 +1,58 @@
-Perfil Profesional
-Ingeniero de Sistemas con amplia experiencia en desarrollo de software, ciberseguridad, inteligencia artificial y análisis de datos. Destaco por mi capacidad para diseñar e implementar soluciones tecnológicas innovadoras, optimizando procesos y mejorando la eficiencia organizacional. Mi formación continua en bootcamps y diplomados especializados me ha permitido mantenerme actualizado en tecnologías emergentes y metodologías ágiles.
+# 👨‍💻 Haminton Mena Mena
 
-A lo largo de mi trayectoria, he desempeñado roles clave como desarrollador de software, líder de apoyo local y docente de informática, demostrando habilidades en resolución de problemas, liderazgo y adaptación a entornos dinámicos.
+## 🚀 Ingeniero de Sistemas | Desarrollador de Software | IA & DevOps Enthusiast  
 
-Habilidades Técnicas
-✅ Lenguajes y Frameworks: Python, PHP (CodeIgniter 4, Laravel), JavaScript, Node.js, React.
-✅ Bases de Datos: MySQL, MongoDB Atlas, PostgreSQL.
-✅ Inteligencia Artificial: Integración con Google Gemini, procesamiento de lenguaje natural (NLP), embeddings y búsqueda semántica.
-✅ Ciberseguridad: Desarrollo seguro, protección de datos, implementación de mejores prácticas.
-✅ Cloud Computing y DevOps: AWS, Docker, CI/CD, despliegue automatizado.
-✅ APIs y Servicios Web: Desarrollo e integración de APIs RESTful y SOAP.
-✅ Reportes y Análisis de Datos: DevExpress, generación de informes dinámicos en múltiples formatos.
-✅ Control de Versiones: Git, GitHub, GitLab.
+Soy un **Ingeniero de Sistemas** con amplia experiencia en **desarrollo de software, ciberseguridad, inteligencia artificial y análisis de datos**. Me apasiona crear soluciones tecnológicas innovadoras que optimicen procesos y mejoren la eficiencia organizacional. Mi formación continua en **bootcamps y diplomados especializados** me permite mantenerme actualizado en tecnologías emergentes y metodologías ágiles.  
 
-Enfoque y Objetivos
-Con un enfoque en la innovación y mejora continua, busco aportar mis conocimientos y habilidades en proyectos tecnológicos desafiantes que impulsen la transformación digital. Me interesa formar parte de equipos que fomenten el crecimiento profesional y el aprendizaje constante, donde pueda aplicar soluciones estratégicas para la optimización de sistemas y procesos.
+### 🎯 **Sobre mí**
+- 💡 **Experiencia en desarrollo backend y frontend** con tecnologías modernas.
+- 🤖 **Integración de Inteligencia Artificial** con Google Gemini y modelos NLP.
+- 🔐 **Ciberseguridad** y desarrollo seguro de aplicaciones.
+- ☁️ **Cloud Computing y DevOps** con AWS, Docker y CI/CD.
+- 🎓 **Docente de informática y mentor** en comunidades tecnológicas.
+
+---
+
+## 🛠️ **Tech Stack & Skills**
+
+### **🔹 Lenguajes y Frameworks:**
+- **Backend:** PHP (CodeIgniter 4, Laravel), Python (Flask, FastAPI), Node.js.
+- **Frontend:** React.js, JavaScript, HTML, CSS.
+
+### **🔹 Bases de Datos:**
+- MySQL, MongoDB Atlas, PostgreSQL.
+
+### **🔹 Inteligencia Artificial:**
+- Procesamiento de lenguaje natural (NLP), embeddings, búsqueda semántica.
+- Integración con **Google Gemini**.
+
+### **🔹 Cloud & DevOps:**
+- AWS, Docker, CI/CD, despliegue automatizado.
+
+### **🔹 APIs y Servicios Web:**
+- Desarrollo e integración de APIs RESTful y SOAP.
+
+### **🔹 Reportes y Análisis de Datos:**
+- DevExpress, generación de informes dinámicos en múltiples formatos.
+
+### **🔹 Control de Versiones:**
+- Git, GitHub, GitLab.
+
+---
+
+## 📈 **Proyectos Destacados**
+- 🛍️ **Marketplace con PHP y CodeIgniter 4** optimizado para escalabilidad.
+- 🎓 **Plataforma educativa con IA** para asistencia en el aprendizaje.
+- 📊 **Reportes dinámicos en CodeIgniter 3** con DevExpress y .NET Core.
+- 🤖 **IA conversacional** con integración de voz y embeddings.
+
+---
+
+## 📫 **Contacto & Redes**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/)  
+📧 **Email:** haminton@example.com  
+
+---
+
+⚡ _Siempre aprendiendo y explorando nuevas tecnologías. ¡Colaboremos en proyectos innovadores!_ 🚀
