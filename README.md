@@ -1,4 +1,4 @@
-# 👨‍💻 Haminton Mena Mena
+# 👋 Hola, soy Haminton Mena Mena
 
 ## 🚀 Ingeniero de Sistemas | Desarrollador de Software | IA & DevOps Enthusiast  
 
@@ -49,9 +49,12 @@ Soy un **Ingeniero de Sistemas** con amplia experiencia en **desarrollo de softw
 ---
 
 ## 📫 **Contacto & Redes**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/haminton-mena-mena-haminton/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github)](https://github.com/)  
-📧 **Email:** ing.haminton@outlook.com  
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube)](https://www.youtube.com/@DeveloperJojama)  
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=flat-square&logo=facebook)](https://www.facebook.com/DeveloperJojama/)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat-square&logo=instagram)](https://www.instagram.com/the_beautifull_pretty?igsh=M3BpcDRkbWN3d3I4)  
+📧 **Email:** haminton@example.com  
 
 ---
 
