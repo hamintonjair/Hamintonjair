@@ -1,4 +1,4 @@
-# 👋 Hola, soy Haminton Mena Mena
+# 👋 Hola, soy Haminton
 
 ## 🚀 Ingeniero de Sistemas | Desarrollador de Software | IA & DevOps Enthusiast  
 
