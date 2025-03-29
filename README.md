@@ -13,7 +13,7 @@ Soy un **Ingeniero de Sistemas** con amplia experiencia en **desarrollo de softw
 
 ---
 
-## 🛠️ **Tech Stack & Skills**
+## 🛠️ **Tecnologías y habilidades**
 
 ### **🔹 Lenguajes y Frameworks:**
 - **Backend:** PHP (CodeIgniter 4, Laravel), Python (Flask, FastAPI), Node.js.
