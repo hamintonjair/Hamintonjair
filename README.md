@@ -1,6 +1,6 @@
 # 👋 Hola, soy Haminton
 
-## 🚀 Ingeniero de Sistemas | Desarrollador de Software | IA & DevOps Enthusiast  
+## 🚀 Ingeniero de Sistemas | Desarrollador de Software | Profesional enfocado en IA & DevOps  
 
 Soy un **Ingeniero de Sistemas** con amplia experiencia en **desarrollo de software, ciberseguridad, inteligencia artificial y análisis de datos**. Me apasiona crear soluciones tecnológicas innovadoras que optimicen procesos y mejoren la eficiencia organizacional. Mi formación continua en **bootcamps y diplomados especializados** me permite mantenerme actualizado en tecnologías emergentes y metodologías ágiles.  
 
